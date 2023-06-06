@@ -1,7 +1,7 @@
 # UAS_PBO_Program_Random_Password_Generator
 #KELOMPOK 3
 
-(https://github.com/CarliMargareta/UAS_PBO_Program_Random_Password_Generator/assets/129679041/8634cc8f-7856-46ef-9478-f04d8231ddd0)
+![243394173-cdd14486-3171-42e9-94fe-3f8af042dedf](https://github.com/CarliMargareta/UAS_PBO_Program_Random_Password_Generator/assets/129679041/74fdb857-f041-422a-8dfd-d99eeb88faf4)
 
 Kami membuat program ini untuk membantu membuat password seseorang secara random yang menampilkan angka huruf besar dan kecil serta symbol. Dan program ini bisa membuatkan kode dengan panjang password yang berbeda-beda sesuai dengan keinginan sendiri. Jika kita mengetik angka 10 ditabel panjang password maka hasil dari password tersebut akan secara random mengeluarkan angka,huruf besar,huruf kecil dan symbol.
 
